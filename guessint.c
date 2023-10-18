@@ -1,13 +1,8 @@
-/*
-LAB 1 ASSIGNMENT - GUESSINT
-Student ID: 2300411
-Name: Augustine Chan Yi Ren
-*/
+
 #include <stdio.h>
 // define what macros are needed, keep it simple.
 #define max_guesses 10
-// #define max_num 1000
-// #define min_num 1
+
 
 int main()
 {
